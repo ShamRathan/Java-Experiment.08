@@ -1,4 +1,4 @@
-# Java-Experiment.5
+# Java-Experiment.08
 # Inheritance
 
 ## Aim:
